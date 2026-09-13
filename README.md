@@ -17,6 +17,19 @@ DRAMAtical Murder（戲劇性謀殺） 續作 re:connect（DLsite VJ014718「普
 <img width="1026" height="608" alt="image" src="https://github.com/user-attachments/assets/54c5d7a6-cd81-41d1-a744-90e8a6802e5c" />
 </details>
 
+## 使用條件
+
+本 patch 僅供**已合法購買** DLsite VJ014718「re:connect 普及版」的使用者使用。
+
+patch 不含任何遊戲原始檔案，也**不解除任何複製保護、不繞過購買驗證**；中文版是在
+你自己的電腦上、由你自己那份遊戲檔重建出來的。NPA 封裝格式的處理方式參考公開文件
+（[GARbro](https://github.com/morkt/GARbro)，MIT）。
+
+## 致權利人
+
+若 Nitroplus / Nitro+CHiRAL 或其代理人認為本專案不妥，請開 GitHub Issue 或聯絡
+[TeaBay](https://github.com/TeaBay)，我會立即下架，不會爭辯。
+
 ## 下載
 
 [Releases](../../releases) 的 `dmmd-zh-vX.Y.Z.zip`。
